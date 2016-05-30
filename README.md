@@ -1,2 +1,2 @@
-# KafkaCodeBase
-All Kafka related POC code
+# kafka
+Some example code for Kafka 0.8.2
